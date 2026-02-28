@@ -8,4 +8,4 @@
 
 # Building
 
-Синхронизировано с удаленный репозиторием на GitHub lab2-task1-gr13-zhilyuk 
+Синхронизировано с удаленным репозиторием на GitHub lab2-task1-gr13-zhilyuk 
