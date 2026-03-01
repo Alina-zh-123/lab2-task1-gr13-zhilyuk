@@ -9,4 +9,5 @@
 
 # Building
 
-gcc -o lab2-task1 src/main.c
+Компиляция: gcc -o lab2-task1 main.c
+Запуск: ./lab2-task1
